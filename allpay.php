@@ -2,7 +2,7 @@
     
     /**
      *  Created by PhpStorm.
-     * User: Mr.gong
+     * User: Mr.
      * Date: 2016/9/13 
      * Time: 14:22 
      * 微信 支付宝app支付  安卓ios通吃  v2.0 
